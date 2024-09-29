@@ -59,3 +59,12 @@ W topologii pierścienia każde urządzenie jest połączone z dwoma innymi urz�
 To urządzenia sieciowe, które łączą wiele urządzeń (np.: komputery, drukarki) używając Ethernetu.
 Powszechnie spotykane są w dużych sieciach biznesowych, lub szkolnych. Mają wiele portów (4, 8, 16, 32, 64).
 W odróżnieniu od Huba, switch wie jakie urządzenie jest podłączone do którego portu, i przesyła dane tylko do odpowiedniego urządzenia, co znacznie zwiększa wydajność sieci.
+
+![Obrazek przedstawiający diagram wykorzystania switcha](/intro-to-lan/images/switch.png)
+
+# Co to jest Router?
+
+Jego zadaniem jest połączenie sieci i przesył danych między nimi. Router robi to przy pomocy tabeli routingu, która zawiera informacje o tym, jakie urządzenia są dostępne w danej sieci, oraz jakie są najlepsze trasy przesyłania danych.
+Router jest użyteczny, gdy urządzenia są połączone z różnymi sieciami, np.: sieć lokalna z siecią internetową.
+
+![Obrazek przedstawiający diagram praktycznego wykorzystania routera](/intro-to-lan/images/router.png)

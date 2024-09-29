@@ -2,5 +2,6 @@
 title: Strona powitalna
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Rundka wokół notatek
+
+- [Intro to LAN](/intro-to-lan)
